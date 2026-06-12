@@ -1,0 +1,19 @@
+# Data files (too large for git; users download separately)
+data/*.csv
+data/*.txt
+*.pkl
+*.npz
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
